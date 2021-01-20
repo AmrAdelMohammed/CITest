@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import IQKeyboardManager
 
 @main
 struct CITestApp: App {
